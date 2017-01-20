@@ -1,0 +1,157 @@
+﻿ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+    border-right:1px solid #bbb;
+}
+
+li:last-child {
+    border-right: none;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+        font-family:'Kristen ITC';
+}
+
+.divmain {
+    border-style:outset;
+    border-color:darkturquoise;
+    width:60%;
+    margin:auto;
+    background-color: white ;
+    height:1150px;
+    box-shadow: 10px 10px 5px #888888;
+}
+.bodystyle {
+    background-image:url(BackImage.jpg);
+}
+
+.heading1{
+    text-align:center;
+    font-family:'Kristen ITC';
+ }
+.logo {
+    float: right;
+    width: 50px;
+    margin:10px;
+    text-align: center;
+}
+.ruchihome {
+    margin-left:20px;
+    height:450px;
+    width:300px;
+    border-radius: 25px;
+}
+.imgnext{
+float: left ;
+
+} 
+.fontmenu{
+        font-family:'Kristen ITC';
+
+}
+.coachdesc{
+        font-family:'Kristen ITC';
+        font-size:small;
+
+
+
+
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 23%;
+    height: 35%;
+    margin:30px;
+    float:left;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+    padding: 2px 6px;
+  }
+
+.headingmain {
+    text-align: center;
+    font-family: 'Kristen ITC';
+}
+ .pics1 {
+    margin: 40px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 280px;
+    height:300px;
+}
+
+.pics2 {
+    width: 100%;
+    height: auto;
+    border-radius: 25px;
+}
+
+.picsdesc {
+    padding: 15px;
+    text-align: center;
+    font-family: 'Kristen ITC';
+}   
+
+.mapa { 
+    font-family:'Tempus Sans ITC';
+    margin-left:350px;
+     margin-right:10px;
+     font-size:large;
+}
+.movie {
+    width: 600px;
+    height: 400px;
+    margin: 40px;
+}
+.fontmenu1{
+     font-family:Tempus Sans ITC;
+     margin-left:250px;
+     font-size:large;
+}
+
+.stroketitle{
+     font-family:Tempus Sans ITC;
+     font-size:larger;
+     text-align:center;
+}
+
+.pool {
+    float:left;
+    margin:10px;
+    border-radius: 20px;
+}
+
+
+
+
+
+
+
+

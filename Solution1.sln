@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{25F2EF63-CCE6-4121-AC8D-7762711FFEE1}"
+	ProjectSection(SolutionItems) = preProject
+		calendar.html = calendar.html
+		contact.html = contact.html
+		Index.html = Index.html
+		Main.html = Main.html
+		pics.html = pics.html
+		strokes.html = strokes.html
+		Styles.css = Styles.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{06C89B19-DE2C-48DB-8418-FAFC46D513B9}"
+	ProjectSection(SolutionItems) = preProject
+		images\1.JPG = images\1.JPG
+		images\10.JPG = images\10.JPG
+		images\2.JPG = images\2.JPG
+		images\3.JPG = images\3.JPG
+		images\4.JPG = images\4.JPG
+		images\5.JPG = images\5.JPG
+		images\6.JPG = images\6.JPG
+		images\7.JPG = images\7.JPG
+		images\8.JPG = images\8.JPG
+		images\9.JPG = images\9.JPG
+		images\Amber.jpg = images\Amber.jpg
+		images\Amber1.jpg = images\Amber1.jpg
+		images\BackImage.jpg = images\BackImage.jpg
+		images\bubble.png = images\bubble.png
+		images\bubble1.bmp = images\bubble1.bmp
+		images\bubble1.png = images\bubble1.png
+		images\george.jpg = images\george.jpg
+		images\IMG_0055.JPG = images\IMG_0055.JPG
+		images\img_fjords.jpg = images\img_fjords.jpg
+		images\ruchi1.png = images\ruchi1.png
+		images\ruchi2.png = images\ruchi2.png
+		images\SGSG.png = images\SGSG.png
+		images\Speechbub.jpg = images\Speechbub.jpg
+		images\USASwim.png = images\USASwim.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{06C89B19-DE2C-48DB-8418-FAFC46D513B9} = {25F2EF63-CCE6-4121-AC8D-7762711FFEE1}
+	EndGlobalSection
+EndGlobal
